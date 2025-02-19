@@ -97,11 +97,11 @@ npm start
 에러 뜨면 gpt로 해결하세요.
 
 screens/Login.js, Signup.js, Welcome.js와 components/styles.js에만 주석 달아놨습니다. 확인하세요.   
-의존성 문제는 모듈마다 버전이 일치하지 않아서 뜨는 에러이므로 package.json의 버전을 확인하여 설치하여 주세요.   
+의존성 문제는 모듈마다 버전이 일치하지 않아서 뜨는 에러이므로 package.json의 버전을 확인하여 설치하세요.
 ex) npm install styled-components@버전번호
 
 
-#최종
+# 최종
 ![image](https://github.com/user-attachments/assets/7e517a9c-15ff-48b8-95a4-34b9e8bd8b51)
 
 
