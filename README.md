@@ -123,7 +123,11 @@ ex) npm install styled-components@버전번호
 클래스 선택 페이지, 클래스 장바구니 담기   
 GPS는 아직 잘 모르겟습니다,,
 
-     
+
+      
+
+컨테이너 모두 이 영상 참고하였으니 보시는 편이 도움 될 겁니다.
+https://youtu.be/BQ-kHwLlhrg?si=6KEXI0lXZWILWEZR
       
    
    
