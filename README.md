@@ -35,19 +35,21 @@ More Aciton -> SDK manager에서 아래 이미지의 툴을 설치하세요.
 
 
 ## Visual Studio Code 설치
-v: 1.97.2
-설치 후 프롬프트에서 아래 명령어 입력후 1.97.2가 뜨면 됩니다.
+v: 1.97.2   
+프롬프트에서 아래 명령어 입력후 1.97.2가 뜨면 됩니다.
 ```sh
 code --version
 ```
 
 ## VScode 추가 설정 
-** Tab Size: 4 **
-![image](https://github.com/user-attachments/assets/01a730de-5c49-42e7-9e22-c59f2a09e79b)
+**Tab Size: 4**
+![image](https://github.com/user-attachments/assets/01a730de-5c49-42e7-9e22-c59f2a09e79b)   
+
 
    
+   
 
-**업로드 된 코드를 .zip로 설치 및 압축해제 후 project1 폴더를 VScode에서 project1 폴더를 여세요.**
+## 업로드 된 코드를 .zip로 설치 및 압축해제 후 project1 폴더를 VScode에서 project1 폴더를 여세요.
 
 아래 이미지처럼 뜨는지 확인하세요.
 ![image](https://github.com/user-attachments/assets/2850b2b3-fd7d-40d6-a55b-d15fd58867a4)
