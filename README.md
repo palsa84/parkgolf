@@ -41,6 +41,11 @@ v: 1.97.2
 code --version
 ```
 
+## VScode 추가 설정 
+** Tab Size: 4 **
+![image](https://github.com/user-attachments/assets/01a730de-5c49-42e7-9e22-c59f2a09e79b)
+
+   
 
 **업로드 된 코드를 .zip로 설치 및 압축해제 후 project1 폴더를 VScode에서 project1 폴더를 여세요.**
 
