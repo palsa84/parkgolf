@@ -1,5 +1,5 @@
 
-expo가 아닌 react-native cli과 npm 명령어로 Visual studio Code에서 개발합니다.   
+expo가 아닌 react-native cli와 npm 명령어로 Visual studio Code에서 개발합니다.   
 .ts, .tsx, kotlin, flutter가 아닌 .js, .jsx, react-native로 Android만 개발합니다.
 
 
