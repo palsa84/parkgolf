@@ -49,7 +49,7 @@ code --version
    
    
 
-## 업로드 된 코드를 .zip로 설치 및 압축해제 후 project1 폴더를 VScode에서 project1 폴더를 여세요.
+## 업로드 된 코드를 .zip로 설치 및 압축해제 후 VScode에서 project1 폴더를 여세요.
 
 아래 이미지처럼 뜨는지 확인하세요.
 ![image](https://github.com/user-attachments/assets/2850b2b3-fd7d-40d6-a55b-d15fd58867a4)
