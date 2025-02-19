@@ -113,13 +113,14 @@ ex) npm install styled-components@버전번호
 회원가입 및 카카오로그인
 
 ## 추후 업데이트 기능
-클래스 선택 페이지, 클래스 장바구니 담기
-
+클래스 선택 페이지, 클래스 장바구니 담기   
 GPS는 아직 잘 모르겟습니다,,
 
 
-
-아래는 기본 README입니다. 참고하실분은 참고하세요.   
+# 아래는 기본 README입니다. 참고하실분은 참고하세요.   
+* * *
+* * *
+* * *
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
