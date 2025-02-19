@@ -1,7 +1,7 @@
 설치 전 **저장공간** 확보하세요.
 
 expo가 아닌 react-native cli와 npm 명령어로 Visual Studio Code에서 개발합니다.   
-.ts, .tsx, kotlin, flutter가 아닌 .js, .jsx, react-native로 Android만 개발합니다.
+.ts, .tsx, Flutter가 아닌 .js, .jsx, react-native로 Android만 개발합니다.
 
 
 ## 안드로이드 스튜디오 설치
